@@ -211,4 +211,7 @@
     <Text Include="..\config\X_TestManyQuads.txt" />
     <Text Include="..\config\X_TestMavlink.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
 </Project>

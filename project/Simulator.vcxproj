@@ -93,6 +93,9 @@
     <Text Include="..\config\X_TestManyQuads.txt" />
     <Text Include="..\config\X_TestMavlink.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{D8435B4A-B444-4C1B-ABC8-6D1C779B268D}</ProjectGuid>
